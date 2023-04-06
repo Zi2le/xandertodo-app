@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xandertodo-app/static/css/main.a58cd82b.css",
+    "main.js": "/xandertodo-app/static/js/main.dae26e14.js",
+    "index.html": "/xandertodo-app/index.html",
+    "main.a58cd82b.css.map": "/xandertodo-app/static/css/main.a58cd82b.css.map",
+    "main.dae26e14.js.map": "/xandertodo-app/static/js/main.dae26e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58cd82b.css",
+    "static/js/main.dae26e14.js"
+  ]
+}
